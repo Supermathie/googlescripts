@@ -1,0 +1,16 @@
+Here are various utilities that let you do Useful Things against
+Google Services.
+
+------------------------------------------------------------------
+insertMultiCal.py
+GoogleCalendar.py
+
+required libraries:
+* gdata (http://code.google.com/p/gdata-python-client/downloads/list)
+
+This lets you easily insert multiple related calendar events into your
+Google Calendar. Look inside insertMultiCal.py!
+------------------------------------------------------------------
+
+Share and enjoy!
+-- Michael Brown <michael@supermathie.net>
